@@ -1,0 +1,51 @@
+
+.titre{
+
+    margin: 50px;
+    background-color: white;
+}
+
+
+
+body {
+    background-image: url("https://maison-monde.com/wp-content/uploads/2018/06/cuisine-%C3%A9quip%C3%A9e-moderne.jpg");
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+   }
+
+   .intro{
+
+    background-color: white;
+
+   
+   
+   }
+
+  .image {
+
+    margin-top: 0px;
+    
+  }
+
+
+  
+  .recette{
+
+    background-color: white;
+
+   
+   
+   }
+
+   
+  .ingredient{
+
+    background-color: white;
+
+   
+   
+   }
