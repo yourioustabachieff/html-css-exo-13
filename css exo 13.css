@@ -29,7 +29,6 @@ body {
 
     background-image: url("http://s3-ca-central-1.amazonaws.com/staging-praticopratiques/app/uploads/sites/4/2018/08/30201124/gateau-au-chocolat.jpeg");
     background-position: center center;
-    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
   
@@ -68,5 +67,28 @@ body {
     display: grid;
     grid-template-columns: 40% 60%;
     background-color: white;
+
+   }
+
+
+
+   .cuisson{
+
+
+
+   }
+
+
+
+   .préparation{
+
+
+
+   }
+
+   .difficulté{
+    background-image: url("Documents/projet formation front end/html css exo 13/etoile.png");
+    
+
 
    }
