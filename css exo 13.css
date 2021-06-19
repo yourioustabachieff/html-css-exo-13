@@ -59,6 +59,14 @@ body {
 
     background-color: white;
 
-   
-   
+  
+   }
+
+
+   .preparation {
+
+    display: grid;
+    grid-template-columns: 40% 60%;
+    background-color: white;
+
    }
